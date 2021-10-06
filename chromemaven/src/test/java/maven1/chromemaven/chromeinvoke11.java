@@ -27,7 +27,8 @@ public class chromeinvoke11 {
 	}     
 	@BeforeTest  
 	public void beforeTest() {    
-	System.out.println("before test");  
+	System.out.println("before test"); 
+	System.out.println("clone");
 	}     
 	@AfterTest  
 	public void afterTest() {  
@@ -37,4 +38,4 @@ public class chromeinvoke11 {
 
 	}
 	
-}
+
