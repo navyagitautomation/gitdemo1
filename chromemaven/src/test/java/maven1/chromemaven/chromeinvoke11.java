@@ -29,6 +29,9 @@ public class chromeinvoke11 {
 	public void beforeTest() {    
 	System.out.println("before test"); 
 	System.out.println("clone");
+	System.out.println("before test"); 
+	System.out.println("clone");
+	
 	}     
 	@AfterTest  
 	public void afterTest() {  
